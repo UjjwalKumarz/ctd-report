@@ -10,5 +10,4 @@ reportlab==4.0.9
 PyMuPDF==1.24.2
 qdrant_client==1.8.2
 langchain-core==0.1.45
-langsmith==0.1.50
 langchain-0.1.16 
