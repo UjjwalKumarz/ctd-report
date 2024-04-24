@@ -1,9 +1,7 @@
-langchain==0.1.7
 streamlit==1.31.1
 streamlit_pills==0.3.0
 langchain_openai==0.0.6
-langchain_core==0.1.42
-langchain_community==0.0.32
+langchain_community==0.0.34
 langchain_elasticsearch==0.1.1
 bs4==0.0.2
 PyPDF2==1.26.0
@@ -11,3 +9,6 @@ xhtml2pdf==0.2.15
 reportlab==4.0.9
 PyMuPDF==1.24.2
 qdrant_client==1.8.2
+langchain-core==0.1.45
+langsmith==0.1.50
+langchain-0.1.16 
